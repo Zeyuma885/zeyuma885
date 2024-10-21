@@ -7,7 +7,7 @@ I'm an enthusiastic student, focused on working with challenging projects and ha
 
 #-😂 A simple robot
 
-<gradio-app src="https://Zeyu10086-mzyy.hf.space" theme_mode="light"></gradio-app>
+<gradio-app src="https://Zeyui0086-Mzyy.hf.space" theme_mode="light"></gradio-app>
 
 
 ## - 🕹️ My hobby
